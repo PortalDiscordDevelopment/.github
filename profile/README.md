@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://canary.portaldevelopment.net/assets/img/portal-logo.png" width="150" height="150">
+  <img src="https://portaldevelopment.net/images/pnet/logo.png" width="150" height="150">
 <br>
   <b>Portal Development</b>
 <br>
