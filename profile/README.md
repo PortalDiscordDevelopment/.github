@@ -3,7 +3,7 @@
 <br>
   <b>Portal Development</b>
 <br>
-Your Partner for Professional IT
+Empowering communities with tailored solutions for growth and organization.
   
 # Want to work for us? Learn more at the [Portal Development job hub](https://jobs.portaldevelopment.net)!
 
